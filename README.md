@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Muqsith Giga Saputra</h1>
 <h3 align="center">A passionate Frontend Developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gigasaputra770&label=Profile%20views&color=0e75b6&style=flat" alt="gigasaputra770" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gigasaputra770&label=Profile%20views&color=0e75b6&style=flat" alt="gigasaputra7701" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gigasaputra770" alt="gigasaputra770" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gigasaputra7701" alt="gigasaputra7701" /></a> </p>
 
 - 👨‍💻 My Website Portfolio are available at [https://portfolio-giga-s.vercel.app/](https://portfolio-giga-s.vercel.app/)
 
