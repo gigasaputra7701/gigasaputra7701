@@ -1,23 +1,14 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>FRONTEND DEVELOPER · gigasaputra7701</sub></p>
-<h1>Muhammad Muqsith Giga Saputra</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Fresh Graduate from Sriwijaya University.</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Palembang</sub></p>
-<p><a href="https://github.com/gigasaputra7701">GitHub</a> &nbsp;·&nbsp; <a href="https://portfolio-giga-s.vercel.app/">Website</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/123441826?u=8d10fa24233f7c879b79c345a2fc1c1b7900e388&amp;v=4" width="180" alt="Muhammad Muqsith Giga Saputra GitHub avatar" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <h1>Muhammad Muqsith Giga Saputra</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=31D7FF&center=true&vCenter=true&width=720&lines=Full-Stack+Engineer;Frontend+Developer;" alt="Animated introduction" />
+  </a>
 </div>
 
+
+<table width="100%">
 <h2>What teams can evaluate quickly</h2>
 
 <table width="100%">
@@ -94,14 +85,6 @@
 </tr>
 </table>
 
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=gigasaputra7701&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F123441826%3Fu%3D8d10fa24233f7c879b79c345a2fc1c1b7900e388%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=gigasaputra7701&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F123441826%3Fu%3D8d10fa24233f7c879b79c345a2fc1c1b7900e388%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Muhammad Muqsith Giga Saputra contribution activity" />
-</picture>
-</p>
 
 <hr />
 
