@@ -13,24 +13,13 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · HTML · Vue</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend Developer or Fullstack Engineer ·  TypeScript  · JavaScript · React Js · Vue Js · React Natuve</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>20 repositories · 1 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>19 contributions · 6 active days</p></td>
 </tr>
 </table>
 
-<p><sub>Fresh Graduate from Sriwijaya University.</sub></p>
-
 <h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>20</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>19</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>7</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
 
 <p align="center">
 <picture>
@@ -58,13 +47,6 @@
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/gigasaputra7701/Memorio-Assets">Memorio-Assets</a></h3><p>Assets Website Memorio</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/gigasaputra7701/server-quizapp">server-quizapp</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/gigasaputra7701/frontend-quizapp">frontend-quizapp</a></h3><p>A selected public project.</p><p><sub>Vue · ⭐ 0</sub></p></td>
-</tr>
-</table>
 
 <h2>Technical toolkit</h2>
 
