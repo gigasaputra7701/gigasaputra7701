@@ -3,7 +3,7 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · gigasaputra7701</sub></p>
+<p><sub>FRONTEND DEVELOPER · gigasaputra7701</sub></p>
 <h1>Muhammad Muqsith Giga Saputra</h1>
 <h2>Frontend or full-stack engineer</h2>
 <p>Fresh Graduate from Sriwijaya University.</p>
