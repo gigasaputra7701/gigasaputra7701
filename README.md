@@ -7,18 +7,6 @@
   </a>
 </div>
 
-
-<table width="100%">
-<h2>What teams can evaluate quickly</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend Developer or Fullstack Engineer ·  TypeScript  · JavaScript · React Js · Vue Js · React Natuve</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>20 repositories · 1 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>19 contributions · 6 active days</p></td>
-</tr>
-</table>
-
 <h2>Proof at a glance</h2>
 
 <p align="center">
@@ -56,17 +44,6 @@
   <img src="https://www.gitskins.com/api/section/stack?username=gigasaputra7701&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F123441826%3Fu%3D8d10fa24233f7c879b79c345a2fc1c1b7900e388%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Muhammad Muqsith Giga Saputra technology stack including Python and TypeScript" />
 </picture>
 </p>
-
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>28% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>27% of public code</sub></td>
-<td width="20%" align="center"><strong>Vue</strong><br /><sub>25% of public code</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>16% of public code</sub></td>
-<td width="20%" align="center"><strong>EJS</strong><br /><sub>3% of public code</sub></td>
-</tr>
-</table>
-
 
 <hr />
 
