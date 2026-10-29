@@ -47,5 +47,9 @@
 
 <hr />
 
+## 🏆 HackerRank Achievements
+
+[![React 5 Star Badge](assets/react-badge.png)](https://www.hackerrank.com/profile/gigasaputra7701)
+
 
 <p align="center"><sub>Muhammad Muqsith Giga Saputra · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
